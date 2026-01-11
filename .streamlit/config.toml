@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#4682B4"  # Steel Blue
+backgroundColor = "#1E1E1E" # Dark Gray (Industrial)
+secondaryBackgroundColor = "#2D2D2D" # Slightly lighter gray for cards/sidebars
+textColor = "#E0E0E0" # Off-white for readability
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = true

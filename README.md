@@ -77,13 +77,13 @@ Screenshots
 The following screenshots illustrate the main views of the application and its visual approach.
 
 Dashboard overview
-("C:\Users\Alecito\Documents\Operational Risk & Safety Insight Tool\screenshots\dashboard.png")
+([Operational Dashboard](screenshots/dashboard.png))
 
 Risk priority matrix
-("C:\Users\Alecito\Documents\Operational Risk & Safety Insight Tool\screenshots\risk_matrix.png")
+([Risk Matrix](screenshots/risk_matrix.png))
 
 Improvement actions and training view
-("C:\Users\Alecito\Documents\Operational Risk & Safety Insight Tool\screenshots\kaizen_actions.png")
+([Kaizen Actions](screenshots/kaizen_actions.png))
 
 Screenshots are located in the screenshots/ directory of the repository.
 
